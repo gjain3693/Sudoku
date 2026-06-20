@@ -1,0 +1,25 @@
+LICENSE INFORMATION
+
+1. Game Copyright
+   This game is © 2026 Gaurav Jain. All rights reserved.
+   All original code, gameplay logic, UI layout, and design elements were created by the developer.
+
+2. Third-Party Assets and Libraries
+   This game includes assets that are free to use under their respective licenses.
+   Third-party images, sounds, fonts, scripts, and libraries are used in accordance with their original licenses (such as MIT, CC0, CC-BY, Unity Asset Store EULA, etc.).
+
+3. AI-Generated Assets
+   Some images were generated using Microsoft Copilot and are used in accordance with permitted usage rights.
+
+4. Audio Assets
+   Audio files used in this game were obtained from free-to-use sources (such as Pixabay, FreeSound, OpenGameArt, etc.) and are used in compliance with their respective licenses.
+
+5. Attribution
+   Where required by license terms, proper attribution has been provided either within the application or in associated documentation.
+
+6. Third-Party Services
+   This game uses third-party services such as Unity Ads, which may collect anonymized data for advertising and analytics purposes in accordance with their respective privacy policies.
+
+7. Ownership Statement
+   The developer does not claim ownership of third-party assets included under free-use licenses.
+   Only the original work created by the developer is copyrighted.
